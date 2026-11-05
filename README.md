@@ -1,4 +1,5 @@
 # Consulta.me — intranet da Clínica Consulta.me (v1)
+# Cheguei
 
 Sistema da **Clínica Consulta.me** (fictícia): cadastro de médicos e pacientes, agenda de consultas,
 receitas e envio de exames. Feito em **Django**, a partir do projeto que a turma começou em
